@@ -1,3 +1,6 @@
 # chatting-app-
 GOOGLE DEVELOPER PROFILE LINK : https://g.dev/qmccbalaji
-VIDEO DEMO LINK : 
+GOOGLE DEVELOPER PROFILE LINK : https://g.dev/govindaraJ
+GOOGLE DEVELOPER LINK : http://g.dev/manobsc
+GOOGLE DEVELOPER PROFILE LINK : https://g.dev/ahameds
+
