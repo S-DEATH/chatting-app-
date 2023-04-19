@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208956267218",
+    "project_id": "chatconnect-7e6a9",
+    "storage_bucket": "chatconnect-7e6a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208956267218:android:19ed89ef42905fa23bab0b",
+        "android_client_info": {
+          "package_name": "com.example.chatconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208956267218-vlkguegur3qrpbumeh5h1c09nqfldh1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAuZeeCq1uDrzuBV4EEoXRX5DIDJ8tYxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208956267218-vlkguegur3qrpbumeh5h1c09nqfldh1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
